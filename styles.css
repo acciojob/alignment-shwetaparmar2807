@@ -1,1 +1,37 @@
-/*  your css code here. If applicable */
+.table-1{
+	border:1px;
+	border-block-color:solid black;
+	border:solid black;
+	width:100%;
+	spacing:1px;
+	cell-padding:1px;
+	
+}
+#t11{
+	text-align:left;
+}
+
+#t12{
+	text-align:center;
+}
+#t13{
+	text-align:right;
+}
+.table-2{
+	border:1px;
+	border:solid black;
+	spacing:1px;
+	cell-padding:1px;
+}
+.table-3{
+	border:1px;
+	border:solid black;
+	spacing:1px;
+	cell-padding:1px;
+}
+#t-image{
+	text-align:center;
+}
+#t21{
+	height:30px;
+}
